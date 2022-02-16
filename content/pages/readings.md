@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 65644101-79cb-2379-90b4-2881c0d020a5
 ---
@@ -250,7 +253,7 @@ Thompson, Edward P. "Time, Work-Discipline, and Industrial Capitalism." _Past an
 
 Gutman, Herbert. "Work, Culture, and Society in Industrializing America, 1815-1919." _American Historical Review_ 78, no. 3 (June 1973): 531-88. \[Also reprinted in Gutman's book, _Work, Culture, and Society_ (1976).\]
 
-Cowan, Ruth S. "The 'Industrial Revolution' in the Home: Household Technology and Social Change in the 20th century." _Technology and Culture_ 17, no. 1 (January 1976): 1-24.
+Cowan, Ruth S. "The 'Industrial Revolution' in the Home: Household Technology and Social Change in the 20{{< sup "th" >}} century." _Technology and Culture_ 17, no. 1 (January 1976): 1-24.
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262022620) ———. "The Consumption Junction." In [_The Social Construction of Technological Systems_](https://mitpress.mit.edu/9780262022620). Edited by Wiebe Bijker, Thomas Hughes, and Trevor Pinch. Cambridge, MA: MIT Press, 1987. ISBN: 9780262022620.
 

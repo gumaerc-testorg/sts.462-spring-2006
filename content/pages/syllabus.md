@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c8d3a96c-1c3f-3fa6-eb94-f3779fd13839
 ---
@@ -12,7 +14,7 @@ Lectures: 1 session / week, 3 hours / session
 Overview
 --------
 
-This reading seminar centers on how new technologies have altered the shape and structure of society, politics, and business since the late 18th century. Historical case studies will be used to reflect upon the anticipated and unanticipated consequences of new technologies and, by extension through analogy, to consider whether these cases hold any lessons for contemporary designers, developers, and planners. The seminar will follow a discussion format, with some preliminary remarks by Professors Smith and Mindell at the beginning of each session.
+This reading seminar centers on how new technologies have altered the shape and structure of society, politics, and business since the late 18{{< sup "th" >}} century. Historical case studies will be used to reflect upon the anticipated and unanticipated consequences of new technologies and, by extension through analogy, to consider whether these cases hold any lessons for contemporary designers, developers, and planners. The seminar will follow a discussion format, with some preliminary remarks by Professors Smith and Mindell at the beginning of each session.
 
 Textbooks and Readings
 ----------------------
