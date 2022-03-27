@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7d6735a8-edc9-f811-b6db-447cd01e6eb2
 resourcetype: Document
 title: accuracy_yl.pdf
 uid: 8adc96ff-d45e-6140-a91b-73d98e67f6ef

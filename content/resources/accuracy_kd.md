@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7d6735a8-edc9-f811-b6db-447cd01e6eb2
 resourcetype: Document
 title: accuracy_kd.pdf
 uid: effa96dd-150e-06cf-b99b-ad9695cd1bac

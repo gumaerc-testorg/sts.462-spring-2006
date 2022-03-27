@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7d6735a8-edc9-f811-b6db-447cd01e6eb2
 resourcetype: Document
 title: taylorism_kd.pdf
 uid: 1b521f41-1fff-d9c2-7eb8-04feec65d406

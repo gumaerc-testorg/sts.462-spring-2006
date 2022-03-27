@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7d6735a8-edc9-f811-b6db-447cd01e6eb2
 resourcetype: Document
 title: metropolis_rw.pdf
 uid: c8af8e85-8b2c-ef08-b8da-fc68af6b991b
