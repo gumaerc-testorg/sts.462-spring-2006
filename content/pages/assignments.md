@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about the course assignments and examples
+  of reflection papers, courtesy of the student named and used with permission.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -36,11 +38,11 @@ Cronon, William. _Nature's Metropolis._
 {{< tdopen >}}
 
 
-Kieran Downes ([PDF]({{< baseurl >}}/resources/metropolis_kd))
+Kieran Downes ({{% resource_link cfd3a754-36f9-4bb0-c7fe-dda91041aac2 "PDF" %}})
 
-Michael Rossi ([PDF]({{< baseurl >}}/resources/metropolis_mr))
+Michael Rossi ({{% resource_link 83662799-33eb-08eb-2571-6c18b3d6edcc "PDF" %}})
 
-Rachel Wellhausen ([PDF]({{< baseurl >}}/resources/metropolis_rw))
+Rachel Wellhausen ({{% resource_link c8af8e85-8b2c-ef08-b8da-fc68af6b991b "PDF" %}})
 
 
 {{< tdclose >}}
@@ -53,9 +55,9 @@ Aitken, Hugh. _Taylorism at the Watertown Arsenal._
 {{< tdopen >}}
 
 
-Kieran Downes ([PDF]({{< baseurl >}}/resources/taylorism_kd))
+Kieran Downes ({{% resource_link 1b521f41-1fff-d9c2-7eb8-04feec65d406 "PDF" %}})
 
-David Unger ([PDF]({{< baseurl >}}/resources/taylorism_du))
+David Unger ({{% resource_link 194d3a03-d905-9fb1-6a62-6f2d3961ffa5 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -68,9 +70,9 @@ MacKenzie, Donald. _Inventing Accuracy._
 {{< tdopen >}}
 
 
-Kieran Downes ([PDF]({{< baseurl >}}/resources/accuracy_kd))
+Kieran Downes ({{% resource_link effa96dd-150e-06cf-b99b-ad9695cd1bac "PDF" %}})
 
-Yanni Loukissas ([PDF]({{< baseurl >}}/resources/accuracy_yl))
+Yanni Loukissas ({{% resource_link 8adc96ff-d45e-6140-a91b-73d98e67f6ef "PDF" %}})
 
 
 {{< tdclose >}}

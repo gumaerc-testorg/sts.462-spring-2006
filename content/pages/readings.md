@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section presents the assigned readings per class session, followed
+  by bibliography with complete citations for all works.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

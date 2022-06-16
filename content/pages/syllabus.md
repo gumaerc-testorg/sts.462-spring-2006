@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the course description and information about textbooks
+  and readings, assignments, grading, and a link to the calendar of lecture topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -23,7 +25,7 @@ A primary book used throughout this course is:
 
 Smith, Merritt Roe, and Gregory Clancey, eds. _Major Problems in the History of American Technology_. Boston, MA: Houghton Mifflin Co., 1997. ISBN: 9780669354720.
 
-Other [readings]({{< baseurl >}}/pages/readings) are assigned from a variety of books and articles.
+Other {{% resource_link 65644101-79cb-2379-90b4-2881c0d020a5 "readings" %}} are assigned from a variety of books and articles.
 
 Assignments
 -----------
