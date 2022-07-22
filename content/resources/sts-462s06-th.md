@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: Poster with young boy and caption 'Electricity For Him.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: sts-462s06-th.jpg
 uid: f4de3059-85c4-4170-9d21-59097a117503
 ---
 New image Upload
-

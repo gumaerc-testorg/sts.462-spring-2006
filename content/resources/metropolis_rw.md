@@ -6,6 +6,7 @@ file: /courses/sts-462-social-and-political-implications-of-technology-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: metropolis_rw.pdf
 uid: c8af8e85-8b2c-ef08-b8da-fc68af6b991b
 ---
 This resource contains an example of a reflection paper on Nature's Metropolis by William Cronon, written by a student, Rachel Wellhausen.
-
