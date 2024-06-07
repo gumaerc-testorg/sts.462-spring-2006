@@ -233,11 +233,11 @@ Aitken, H. G. J. _Scientific Management in Action: Taylorism at the Watertown Ar
 
 Fritzsche, Peter. _A Nation of Fliers: German Aviation and the Popular Imagination_. Cambridge, MA: Harvard University Press, 1994. ISBN: 9780674601222.
 
-{{% resource_link "51722db8-2be2-4f89-a342-6560cfe52675" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Nye, David. {{% resource_link "51722db8-2be2-4f89-a342-6560cfe52675" "_Electrifying America_" %}}. Cambridge, MA: MIT Press, 1992. ISBN: 9780262640305.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262640305) Nye, David. [_Electrifying America_](https://mitpress.mit.edu/9780262640305). Cambridge, MA: MIT Press, 1992. ISBN: 9780262640305.
 
 Russell, Edmund. _War and Nature: Fighting Humans and Insects with Chemicals from World War I to Silent Spring_. New York, NY: Cambridge University Press, 2001. ISBN: 9780521799379.
 
-{{% resource_link "45832b27-a3e2-4370-a520-eee50fab9895" "![Buy at MIT Press](/images/mp_logo.gif)" %}} MacKenzie, Donald. {{% resource_link "45832b27-a3e2-4370-a520-eee50fab9895" "_Inventing Accuracy: An Historical Sociology of Nuclear Missile Guidance_" %}}. Cambridge, MA: MIT Press, 1993. ISBN: 9780262631471.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262631471) MacKenzie, Donald. [_Inventing Accuracy: An Historical Sociology of Nuclear Missile Guidance_](https://mitpress.mit.edu/9780262631471). Cambridge, MA: MIT Press, 1993. ISBN: 9780262631471.
 
 Maines, Rachel. _Asbestos and Fire: Technological Tradeoffs and the Body at Risk_. Piscataway, NJ: Rutgers University Press, 2005. ISBN: 9780813535753.
 
@@ -257,7 +257,7 @@ Gutman, Herbert. "Work, Culture, and Society in Industrializing America, 1815-19
 
 Cowan, Ruth S. "The 'Industrial Revolution' in the Home: Household Technology and Social Change in the 20{{< sup "th" >}} century." _Technology and Culture_ 17, no. 1 (January 1976): 1-24.
 
-{{% resource_link "11bcd35e-af29-4aff-8b26-efbefdecd019" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. "The Consumption Junction." In {{% resource_link "11bcd35e-af29-4aff-8b26-efbefdecd019" "_The Social Construction of Technological Systems_" %}}. Edited by Wiebe Bijker, Thomas Hughes, and Trevor Pinch. Cambridge, MA: MIT Press, 1987. ISBN: 9780262022620.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262022620) ———. "The Consumption Junction." In [_The Social Construction of Technological Systems_](https://mitpress.mit.edu/9780262022620). Edited by Wiebe Bijker, Thomas Hughes, and Trevor Pinch. Cambridge, MA: MIT Press, 1987. ISBN: 9780262022620.
 
 McGaw, Judith A. "No Passive Victims, No Separate Spheres: A Feminist Perspective on Technology's History." In _In Context: History and the History of Technology_. Edited by Stephen H. Cutcliffe and Robert C. Post. Cranbury, NJ: Lehigh University Press, 1989. ISBN: 9780934223034.
 
