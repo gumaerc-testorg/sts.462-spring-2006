@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains an example of a reflection paper on Taylorism
   at the Watertown Arsenal by Hugh Aitken, written by a student, Kieran Downes.
-file: /courses/sts-462-social-and-political-implications-of-technology-spring-2006/1b521f411fffd9c27eb804feec65d406_taylorism_kd.pdf
+file: /ol-ocw-studio-app/courses/sts-462-social-and-political-implications-of-technology-spring-2006/1b521f411fffd9c27eb804feec65d406_taylorism_kd.pdf
 file_size: 19173
 file_type: application/pdf
 learning_resource_types:
