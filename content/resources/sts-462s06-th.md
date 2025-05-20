@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/sts-462-social-and-political-implications-of-technology-spring-2006/f4de305985c441709d2159097a117503_sts-462s06-th.jpg
+file: /courses/sts-462-social-and-political-implications-of-technology-spring-2006/f4de305985c441709d2159097a117503_sts-462s06-th.jpg
 file_size: 9172
 file_type: image/jpeg
 image_metadata:
