@@ -7,7 +7,8 @@ file_type: image/jpeg
 image_metadata:
   caption: The USDA's Rural Electrification Program used posters such as this to spread
     the word about the benefits of electricity for farmers and other rural people.
-    (Image courtesy of [USDA](http://www.usda.gov/wps/portal/usdahome).)
+    (Image courtesy of {{% resource_link "669f86f0-bb57-4e1c-b8c3-21979599b4a6" "USDA"
+    %}}.)
   credit: ''
   image-alt: Poster with young boy and caption 'Electricity For Him.'
 learning_resource_types: []
